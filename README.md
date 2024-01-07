@@ -2,8 +2,6 @@
 CHIC 24년 겨울/ **AI & 기계학습** 스터디
 
 ## 사용하는 교재
-![혼공머신러닝표지](https://github.com/kw-chi-community/CHIC_24_machine-learning-study/assets/124863799/8808facb-c8d0-440c-96fe-49584a608437)
-
 **혼자 공부하는 머신 러닝 + 딥러닝** - 박혜선, 한빛미디어
 
 ## 스터디 설명
