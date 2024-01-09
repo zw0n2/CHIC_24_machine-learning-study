@@ -14,7 +14,7 @@ CHIC 24년 겨울/ **AI & 기계학습** 스터디
 ### 1장. 나의 첫 머신러닝
 | 세부 목차 | 1조 | 2조 | 3조
 :---: | :---: | :---: | :---:
-[1-1. 인공지능과 머신러닝, 딥러닝](https://github.com/kw-chi-community/CHIC_24_machine-learning-study/issues/1) | [정수진](1장/1-1_인공지능과_머신러닝_딥러닝_정수진.md) / [김정원](1장/1조/1-1_인공지능과_머신러닝_딥러닝_김정원.md) / [박천수](1장/1조/1-1_인공지능과_머신러닝_딥러닝_박천수.md) |  | 
+[1-1. 인공지능과 머신러닝, 딥러닝](https://github.com/kw-chi-community/CHIC_24_machine-learning-study/issues/1) | [정수진](1장/1조/1-1_인공지능과_머신러닝_딥러닝_정수진.md) / [김정원](1장/1조/1-1_인공지능과_머신러닝_딥러닝_김정원.md) / [박천수](1장/1조/1-1_인공지능과_머신러닝_딥러닝_박천수.md) /[김지원](1장/1조/1-1_인공지능과_머신러닝_딥러닝_김지원.md) |  | 
 [1-2. 코랩과 주피터 노트북](https://github.com/kw-chi-community/CHIC_24_machine-learning-study/issues/2) |  | 
 [1-3. 마켓과 머신러닝](https://github.com/kw-chi-community/CHIC_24_machine-learning-study/issues/3) |  | 
 
